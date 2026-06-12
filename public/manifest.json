@@ -1,0 +1,2382 @@
+{
+  "characters": [
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 16,
+      "path": "assets/characters/gorgon/Gorgon_1/Attack_1.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_1/Attack_2.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 10,
+      "path": "assets/characters/gorgon/Gorgon_1/Attack_3.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/gorgon/Gorgon_1/Dead.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/gorgon/Gorgon_1/Hurt.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_1/Idle.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Idle_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/gorgon/Gorgon_1/Idle_2.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_1/Run.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Special",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/gorgon/Gorgon_1/Special.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_1",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 13,
+      "path": "assets/characters/gorgon/Gorgon_1/Walk.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 16,
+      "path": "assets/characters/gorgon/Gorgon_2/Attack_1.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_2/Attack_2.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 10,
+      "path": "assets/characters/gorgon/Gorgon_2/Attack_3.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/gorgon/Gorgon_2/Dead.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/gorgon/Gorgon_2/Hurt.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_2/Idle.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Idle_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/gorgon/Gorgon_2/Idle_2.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_2/Run.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Special",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/gorgon/Gorgon_2/Special.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_2",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 13,
+      "path": "assets/characters/gorgon/Gorgon_2/Walk.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 16,
+      "path": "assets/characters/gorgon/Gorgon_3/Attack_1.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 10,
+      "path": "assets/characters/gorgon/Gorgon_3/Attack_2.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_3/Attack_3.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/gorgon/Gorgon_3/Dead.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/gorgon/Gorgon_3/Hurt.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_3/Idle.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Idle_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/gorgon/Gorgon_3/Idle_2.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/gorgon/Gorgon_3/Run.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Special",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/gorgon/Gorgon_3/Special.png"
+    },
+    {
+      "family": "gorgon",
+      "variant": "gorgon_3",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 13,
+      "path": "assets/characters/gorgon/Gorgon_3/Walk.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_1",
+      "state": "Attack",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/minotaur/Minotaur_1/Attack.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_1",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/minotaur/Minotaur_1/Dead.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_1",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/minotaur/Minotaur_1/Hurt.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_1",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 10,
+      "path": "assets/characters/minotaur/Minotaur_1/Idle.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_1",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 12,
+      "path": "assets/characters/minotaur/Minotaur_1/Walk.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_2",
+      "state": "Attack",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/minotaur/Minotaur_2/Attack.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_2",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/minotaur/Minotaur_2/Dead.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_2",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/minotaur/Minotaur_2/Hurt.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_2",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 10,
+      "path": "assets/characters/minotaur/Minotaur_2/Idle.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_2",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 12,
+      "path": "assets/characters/minotaur/Minotaur_2/Walk.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_3",
+      "state": "Attack",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/minotaur/Minotaur_3/Attack.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_3",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/minotaur/Minotaur_3/Dead.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_3",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/minotaur/Minotaur_3/Hurt.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_3",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 10,
+      "path": "assets/characters/minotaur/Minotaur_3/Idle.png"
+    },
+    {
+      "family": "minotaur",
+      "variant": "minotaur_3",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 12,
+      "path": "assets/characters/minotaur/Minotaur_3/Walk.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/ninja/Kunoichi/Attack_1.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/ninja/Kunoichi/Attack_2.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Cast",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/ninja/Kunoichi/Cast.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/ninja/Kunoichi/Dead.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Eating",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/ninja/Kunoichi/Eating.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/ninja/Kunoichi/Hurt.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/ninja/Kunoichi/Idle.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 10,
+      "path": "assets/characters/ninja/Kunoichi/Jump.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/ninja/Kunoichi/Run.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Spine",
+      "frameW": 10,
+      "frameH": 10,
+      "frameCount": 1,
+      "path": "assets/characters/ninja/Kunoichi/Spine.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "kunoichi",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/ninja/Kunoichi/Walk.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Attack_1",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 5,
+      "path": "assets/characters/ninja/Ninja_Monk/Attack_1.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Attack_2",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 5,
+      "path": "assets/characters/ninja/Ninja_Monk/Attack_2.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Blade",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 6,
+      "path": "assets/characters/ninja/Ninja_Monk/Blade.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Cast",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 5,
+      "path": "assets/characters/ninja/Ninja_Monk/Cast.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Dead",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 5,
+      "path": "assets/characters/ninja/Ninja_Monk/Dead.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Hurt",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 4,
+      "path": "assets/characters/ninja/Ninja_Monk/Hurt.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Idle",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 7,
+      "path": "assets/characters/ninja/Ninja_Monk/Idle.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Jump",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 9,
+      "path": "assets/characters/ninja/Ninja_Monk/Jump.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Kunai",
+      "frameW": 16,
+      "frameH": 16,
+      "frameCount": 3,
+      "path": "assets/characters/ninja/Ninja_Monk/Kunai.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Run",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 8,
+      "path": "assets/characters/ninja/Ninja_Monk/Run.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_monk",
+      "state": "Walk",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 7,
+      "path": "assets/characters/ninja/Ninja_Monk/Walk.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Attack_1",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 6,
+      "path": "assets/characters/ninja/Ninja_Peasant/Attack_1.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Attack_2",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 4,
+      "path": "assets/characters/ninja/Ninja_Peasant/Attack_2.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Dart",
+      "frameW": 6,
+      "frameH": 6,
+      "frameCount": 1,
+      "path": "assets/characters/ninja/Ninja_Peasant/Dart.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Dead",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 4,
+      "path": "assets/characters/ninja/Ninja_Peasant/Dead.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Disguise",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 9,
+      "path": "assets/characters/ninja/Ninja_Peasant/Disguise.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Hurt",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 2,
+      "path": "assets/characters/ninja/Ninja_Peasant/Hurt.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Idle",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 6,
+      "path": "assets/characters/ninja/Ninja_Peasant/Idle.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Jump",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 8,
+      "path": "assets/characters/ninja/Ninja_Peasant/Jump.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Run",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 6,
+      "path": "assets/characters/ninja/Ninja_Peasant/Run.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Shot",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 6,
+      "path": "assets/characters/ninja/Ninja_Peasant/Shot.png"
+    },
+    {
+      "family": "ninja",
+      "variant": "ninja_peasant",
+      "state": "Walk",
+      "frameW": 96,
+      "frameH": 96,
+      "frameCount": 8,
+      "path": "assets/characters/ninja/Ninja_Peasant/Walk.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/samurai/Samurai/Attack_1.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/samurai/Samurai/Attack_2.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/samurai/Samurai/Attack_3.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/samurai/Samurai/Dead.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/samurai/Samurai/Hurt.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/samurai/Samurai/Idle.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/samurai/Samurai/Jump.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Protection",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/samurai/Samurai/Protection.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/samurai/Samurai/Run.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/samurai/Samurai/Walk.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Arrow",
+      "frameW": 64,
+      "frameH": 64,
+      "frameCount": 1,
+      "path": "assets/characters/samurai/Samurai_Archer/Arrow.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/samurai/Samurai_Archer/Attack_1.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/samurai/Samurai_Archer/Attack_2.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/samurai/Samurai_Archer/Attack_3.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/samurai/Samurai_Archer/Dead.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/samurai/Samurai_Archer/Hurt.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/samurai/Samurai_Archer/Idle.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/samurai/Samurai_Archer/Jump.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/samurai/Samurai_Archer/Run.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Shot",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 14,
+      "path": "assets/characters/samurai/Samurai_Archer/Shot.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_archer",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/samurai/Samurai_Archer/Walk.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/samurai/Samurai_Commander/Attack_1.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/samurai/Samurai_Commander/Attack_2.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/samurai/Samurai_Commander/Attack_3.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/samurai/Samurai_Commander/Dead.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/samurai/Samurai_Commander/Hurt.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/samurai/Samurai_Commander/Idle.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/samurai/Samurai_Commander/Jump.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Protect",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/samurai/Samurai_Commander/Protect.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/samurai/Samurai_Commander/Run.png"
+    },
+    {
+      "family": "samurai",
+      "variant": "samurai_commander",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/samurai/Samurai_Commander/Walk.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Arrow",
+      "frameW": 48,
+      "frameH": 48,
+      "frameCount": 1,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Arrow.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Attack_1.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Attack_2.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Attack_3.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Dead.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Evasion",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Evasion.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Hurt.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Idle.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Shot_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 15,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Shot_1.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Shot_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 15,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Shot_2.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_archer",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/skeleton/Skeleton_Archer/Walk.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Attack_1.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Attack_2.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Dead.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Fall",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Fall.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Hurt.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Idle.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Protect",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Protect.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Run+attack",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Run+attack.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Run.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_spearman",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/skeleton/Skeleton_Spearman/Walk.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Attack_1.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Attack_2.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Attack_3.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Dead.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Hurt.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Idle.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Protect",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 1,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Protect.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Run+attack",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Run+attack.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Run.png"
+    },
+    {
+      "family": "skeleton",
+      "variant": "skeleton_warrior",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/skeleton/Skeleton_Warrior/Walk.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/werewolf/Black_Werewolf/Attack_1.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/werewolf/Black_Werewolf/Attack_2.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/werewolf/Black_Werewolf/Attack_3.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/werewolf/Black_Werewolf/Dead.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/werewolf/Black_Werewolf/Hurt.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/werewolf/Black_Werewolf/Idle.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 11,
+      "path": "assets/characters/werewolf/Black_Werewolf/Jump.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Run+Attack",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/werewolf/Black_Werewolf/Run+Attack.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/werewolf/Black_Werewolf/Run.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "black_werewolf",
+      "state": "walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 11,
+      "path": "assets/characters/werewolf/Black_Werewolf/walk.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/werewolf/Red_Werewolf/Attack_1.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/werewolf/Red_Werewolf/Attack_2.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/werewolf/Red_Werewolf/Attack_3.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/werewolf/Red_Werewolf/Dead.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/werewolf/Red_Werewolf/Hurt.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/werewolf/Red_Werewolf/Idle.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 11,
+      "path": "assets/characters/werewolf/Red_Werewolf/Jump.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Run+Attack",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/werewolf/Red_Werewolf/Run+Attack.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/werewolf/Red_Werewolf/Run.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "red_werewolf",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 11,
+      "path": "assets/characters/werewolf/Red_Werewolf/Walk.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/werewolf/White_Werewolf/Attack_1.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/werewolf/White_Werewolf/Attack_2.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Attack_3",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/werewolf/White_Werewolf/Attack_3.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/werewolf/White_Werewolf/Dead.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 2,
+      "path": "assets/characters/werewolf/White_Werewolf/Hurt.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/werewolf/White_Werewolf/Idle.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 11,
+      "path": "assets/characters/werewolf/White_Werewolf/Jump.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Run+Attack",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/werewolf/White_Werewolf/Run+Attack.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/werewolf/White_Werewolf/Run.png"
+    },
+    {
+      "family": "werewolf",
+      "variant": "white_werewolf",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 11,
+      "path": "assets/characters/werewolf/White_Werewolf/Walk.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/wizard/Fire Wizard/Attack_1.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/wizard/Fire Wizard/Attack_2.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Charge",
+      "frameW": 64,
+      "frameH": 64,
+      "frameCount": 12,
+      "path": "assets/characters/wizard/Fire Wizard/Charge.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/wizard/Fire Wizard/Dead.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Fireball",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/wizard/Fire Wizard/Fireball.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Flame_jet",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 14,
+      "path": "assets/characters/wizard/Fire Wizard/Flame_jet.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/wizard/Fire Wizard/Hurt.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/wizard/Fire Wizard/Idle.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/wizard/Fire Wizard/Jump.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/wizard/Fire Wizard/Run.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "fire_wizard",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/wizard/Fire Wizard/Walk.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 10,
+      "path": "assets/characters/wizard/Lightning Mage/Attack_1.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/wizard/Lightning Mage/Attack_2.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Charge",
+      "frameW": 64,
+      "frameH": 64,
+      "frameCount": 10,
+      "path": "assets/characters/wizard/Lightning Mage/Charge.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/wizard/Lightning Mage/Dead.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/wizard/Lightning Mage/Hurt.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/wizard/Lightning Mage/Idle.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/wizard/Lightning Mage/Jump.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Light_ball",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/wizard/Lightning Mage/Light_ball.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Light_charge",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 13,
+      "path": "assets/characters/wizard/Lightning Mage/Light_charge.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/wizard/Lightning Mage/Run.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "lightning_mage",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/wizard/Lightning Mage/Walk.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Attack_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/wizard/Wanderer Magican/Attack_1.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Attack_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 9,
+      "path": "assets/characters/wizard/Wanderer Magican/Attack_2.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Charge_1",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 5,
+      "path": "assets/characters/wizard/Wanderer Magican/Charge_1.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Charge_2",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 3,
+      "path": "assets/characters/wizard/Wanderer Magican/Charge_2.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Dead",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/wizard/Wanderer Magican/Dead.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Hurt",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 4,
+      "path": "assets/characters/wizard/Wanderer Magican/Hurt.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Idle",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/wizard/Wanderer Magican/Idle.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Jump",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/wizard/Wanderer Magican/Jump.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Magic_arrow",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 6,
+      "path": "assets/characters/wizard/Wanderer Magican/Magic_arrow.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Magic_sphere",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 16,
+      "path": "assets/characters/wizard/Wanderer Magican/Magic_sphere.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Run",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 8,
+      "path": "assets/characters/wizard/Wanderer Magican/Run.png"
+    },
+    {
+      "family": "wizard",
+      "variant": "wanderer_magican",
+      "state": "Walk",
+      "frameW": 128,
+      "frameH": 128,
+      "frameCount": 7,
+      "path": "assets/characters/wizard/Wanderer Magican/Walk.png"
+    }
+  ],
+  "stages": [
+    {
+      "stage": "Battleground1",
+      "variant": "Bright",
+      "layer": "sky",
+      "index": 0,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Bright/sky.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Bright",
+      "layer": "ruins_bg",
+      "index": 1,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Bright/ruins_bg.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Bright",
+      "layer": "hills&trees",
+      "index": 2,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Bright/hills&trees.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Bright",
+      "layer": "ruins",
+      "index": 3,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Bright/ruins.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Bright",
+      "layer": "ruins2",
+      "index": 4,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Bright/ruins2.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Bright",
+      "layer": "statue",
+      "index": 5,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Bright/statue.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Bright",
+      "layer": "stones&grass",
+      "index": 6,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Bright/stones&grass.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Pale",
+      "layer": "sky",
+      "index": 0,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Pale/sky.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Pale",
+      "layer": "ruins_bg",
+      "index": 1,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Pale/ruins_bg.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Pale",
+      "layer": "hills&trees",
+      "index": 2,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Pale/hills&trees.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Pale",
+      "layer": "ruins",
+      "index": 3,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Pale/ruins.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Pale",
+      "layer": "ruins2",
+      "index": 4,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Pale/ruins2.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Pale",
+      "layer": "statue",
+      "index": 5,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Pale/statue.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground1",
+      "variant": "Pale",
+      "layer": "stones&grass",
+      "index": 6,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground1/Pale/stones&grass.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Bright",
+      "layer": "mountaims",
+      "index": 0,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Bright/mountaims.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Bright",
+      "layer": "bg",
+      "index": 1,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Bright/bg.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Bright",
+      "layer": "wall@windows",
+      "index": 2,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Bright/wall@windows.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Bright",
+      "layer": "dragon",
+      "index": 3,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Bright/dragon.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Bright",
+      "layer": "columns&falgs",
+      "index": 4,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Bright/columns&falgs.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Bright",
+      "layer": "candeliar",
+      "index": 5,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Bright/candeliar.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Bright",
+      "layer": "floor",
+      "index": 6,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Bright/floor.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Pale",
+      "layer": "mountaims",
+      "index": 0,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Pale/mountaims.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Pale",
+      "layer": "bg",
+      "index": 1,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Pale/bg.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Pale",
+      "layer": "wall@windows",
+      "index": 2,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Pale/wall@windows.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Pale",
+      "layer": "dragon",
+      "index": 3,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Pale/dragon.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Pale",
+      "layer": "columns&falgs",
+      "index": 4,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Pale/columns&falgs.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Pale",
+      "layer": "candeliar",
+      "index": 5,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Pale/candeliar.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground2",
+      "variant": "Pale",
+      "layer": "floor",
+      "index": 6,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground2/Pale/floor.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Bright",
+      "layer": "sky",
+      "index": 0,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Bright/sky.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Bright",
+      "layer": "jungle_bg",
+      "index": 1,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Bright/jungle_bg.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Bright",
+      "layer": "fireflys",
+      "index": 2,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Bright/fireflys.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Bright",
+      "layer": "lianas",
+      "index": 3,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Bright/lianas.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Bright",
+      "layer": "tree_face",
+      "index": 4,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Bright/tree_face.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Bright",
+      "layer": "trees&bushes",
+      "index": 5,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Bright/trees&bushes.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Bright",
+      "layer": "grass&road",
+      "index": 6,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Bright/grass&road.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Bright",
+      "layer": "grasses",
+      "index": 7,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Bright/grasses.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Pale",
+      "layer": "sky",
+      "index": 0,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Pale/sky.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Pale",
+      "layer": "jungle_bg",
+      "index": 1,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Pale/jungle_bg.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Pale",
+      "layer": "fireflys",
+      "index": 2,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Pale/fireflys.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Pale",
+      "layer": "lianas",
+      "index": 3,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Pale/lianas.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Pale",
+      "layer": "tree_face",
+      "index": 4,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Pale/tree_face.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Pale",
+      "layer": "trees&bushes",
+      "index": 5,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Pale/trees&bushes.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Pale",
+      "layer": "grass&road",
+      "index": 6,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Pale/grass&road.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground3",
+      "variant": "Pale",
+      "layer": "grasses",
+      "index": 7,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground3/Pale/grasses.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Bright",
+      "layer": "sky",
+      "index": 0,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Bright/sky.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Bright",
+      "layer": "back_trees",
+      "index": 1,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Bright/back_trees.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Bright",
+      "layer": "wall",
+      "index": 2,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Bright/wall.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Bright",
+      "layer": "crypt",
+      "index": 3,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Bright/crypt.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Bright",
+      "layer": "tree",
+      "index": 4,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Bright/tree.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Bright",
+      "layer": "graves",
+      "index": 5,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Bright/graves.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Bright",
+      "layer": "bones",
+      "index": 6,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Bright/bones.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Bright",
+      "layer": "ground",
+      "index": 7,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Bright/ground.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Pale",
+      "layer": "sky",
+      "index": 0,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Pale/sky.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Pale",
+      "layer": "back_trees",
+      "index": 1,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Pale/back_trees.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Pale",
+      "layer": "wall",
+      "index": 2,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Pale/wall.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Pale",
+      "layer": "crypt",
+      "index": 3,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Pale/crypt.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Pale",
+      "layer": "tree",
+      "index": 4,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Pale/tree.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Pale",
+      "layer": "graves",
+      "index": 5,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Pale/graves.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Pale",
+      "layer": "bones",
+      "index": 6,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Pale/bones.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "stage": "Battleground4",
+      "variant": "Pale",
+      "layer": "ground",
+      "index": 7,
+      "path": "assets/background/fantasy-2d-battlegrounds/PNG/Battleground4/Pale/ground.png",
+      "width": 1920,
+      "height": 1080
+    }
+  ]
+}

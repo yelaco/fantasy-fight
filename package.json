@@ -1,0 +1,27 @@
+{
+  "name": "fantasy-fight",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "manifest": "tsx scripts/generate-manifest.ts",
+    "build": "npm run manifest && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .ts",
+    "smoke": "node scripts/smoke.mjs"
+  },
+  "dependencies": {
+    "phaser": "^3.80.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "eslint": "latest",
+    "playwright": "latest",
+    "sharp": "latest",
+    "tsx": "latest",
+    "typescript": "^5",
+    "vite": "^5"
+  }
+}
