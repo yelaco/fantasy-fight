@@ -43,7 +43,7 @@ export const AI_TIERS: Record<'easy' | 'medium' | 'hard', AIParams> = {
     mistakeChance:      0.15,
   },
   hard: {
-    reactionFrames:     4,
+    reactionFrames:     6,
     aggression:         0.80,
     blockChance:        0.90,
     antiAirChance:      0.85,

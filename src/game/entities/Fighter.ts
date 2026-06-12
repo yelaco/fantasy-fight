@@ -93,6 +93,7 @@ export class Fighter {
   private hitstunFrames: number = 0;
   private blockstunFrames: number = 0;
   private getupFrames: number = 0;
+  private crouchBlock: boolean = false; // tracks whether blockstun was entered from a crouch block
   private readonly GETUP_DURATION = 30; // frames
 
   // Synthesis: jump arc
@@ -273,9 +274,9 @@ export class Fighter {
     if (wasCrouching && !nowCrouching) this.exitCrouch();
 
     const wasBlocking =
-      prev === FighterState.BlockStand || prev === FighterState.BlockCrouch;
+      prev === FighterState.BlockStand || prev === FighterState.BlockCrouch || prev === FighterState.Blockstun;
     const nowBlocking =
-      next === FighterState.BlockStand || next === FighterState.BlockCrouch;
+      next === FighterState.BlockStand || next === FighterState.BlockCrouch || next === FighterState.Blockstun;
     if (wasBlocking && !nowBlocking) this.exitBlock();
 
     // If we left a jump/falling state
@@ -342,6 +343,11 @@ export class Fighter {
         break;
       case FighterState.AttackHeavyKick:
         this.startMove('hk');
+        break;
+
+      case FighterState.Blockstun:
+        this.moveFrame = null;
+        this.enterBlock();
         break;
 
       case FighterState.Hitstun:
@@ -458,7 +464,8 @@ export class Fighter {
     body.setVelocityX(-fromFacing * pushback);
 
     const isCrouching = this.state === FighterState.Crouch || this.state === FighterState.CrouchWalk;
-    this.forceState(isCrouching ? FighterState.BlockCrouch : FighterState.BlockStand);
+    this.crouchBlock = isCrouching;
+    this.forceState(FighterState.Blockstun);
   }
 
   enterHitstop(frames: number): void {
@@ -809,8 +816,9 @@ export class Fighter {
   private tickBlockstun(): void {
     this.blockstunFrames--;
     if (this.blockstunFrames <= 0) {
-      this.exitBlock();
-      this.setState(FighterState.Idle);
+      // Return to appropriate block state; tickBlockInput will release to Idle if back is no longer held
+      const exitState = this.crouchBlock ? FighterState.BlockCrouch : FighterState.BlockStand;
+      this.forceState(exitState);
     }
   }
 

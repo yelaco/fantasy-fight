@@ -138,8 +138,14 @@ export class PreloadScene extends Phaser.Scene {
         loadedProjKeys.add(proj.textureKey);
 
         // Find the manifest entry that carries the projectile PNG.
-        // Convention: same variant folder as the fighter, state === textureKey name.
-        const manifestEntry = charIndex.get(`${fighter.id}::${proj.textureKey}`);
+        // Convention: textureKey is either a bare state name (e.g. "Fireball") or
+        // "${fighter.id}_${state}" (e.g. "samurai_archer_Arrow").  Try the
+        // variant-namespaced form first, then fall back to bare textureKey.
+        const prefix = `${fighter.id}_`;
+        const manifestState = proj.textureKey.startsWith(prefix)
+          ? proj.textureKey.slice(prefix.length)
+          : proj.textureKey;
+        const manifestEntry = charIndex.get(`${fighter.id}::${manifestState}`);
         if (!manifestEntry) {
           console.warn(
             `[PreloadScene] Projectile "${proj.textureKey}" for fighter "${fighter.id}" ` +

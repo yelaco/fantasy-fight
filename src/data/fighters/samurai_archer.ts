@@ -48,7 +48,7 @@ export const samurai_archer: FighterData = makeVariant(fire_wizard, {
       animState: 'Shot',
       projectile: {
         id: 'arrow',
-        textureKey: 'Arrow',
+        textureKey: 'samurai_archer_Arrow',
         frameW: 64,
         frameH: 64,
         frameCount: 1,

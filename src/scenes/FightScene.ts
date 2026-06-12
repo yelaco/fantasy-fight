@@ -617,11 +617,7 @@ export class FightScene extends Phaser.Scene {
     } else if (hp2 > hp1) {
       this._startKoSequence(this.fighter1);
     } else {
-      // Draw — replay this round
-      this._startKoSequence(this.fighter1); // loser = fighter1 (arbitrary, but we handle below)
-      // Actually for a draw, give nobody a win — just reset
-      // Undo the round win that _startKoSequence will record
-      // Instead use our own path:
+      // Exact HP tie → draw (no round win for either player)
       this._handleDraw();
       return;
     }

@@ -95,12 +95,23 @@ export function canTransition(from: FighterState, to: FighterState): boolean {
   }
 
   // During hitstun / blockstun only combat-driven transitions are valid
-  if (from === FighterState.Hitstun || from === FighterState.Blockstun) {
+  if (from === FighterState.Hitstun) {
     return (
       to === FighterState.Hitstun ||   // re-hit
       to === FighterState.Knockdown ||
       to === FighterState.Dead ||
       to === FighterState.Idle         // recovery expired
+    );
+  }
+  if (from === FighterState.Blockstun) {
+    return (
+      to === FighterState.Hitstun ||   // re-hit while in blockstun
+      to === FighterState.Blockstun ||  // re-blocked
+      to === FighterState.Knockdown ||
+      to === FighterState.Dead ||
+      to === FighterState.Idle ||       // recovery expired
+      to === FighterState.BlockStand || // blockstun expired → resume blocking
+      to === FighterState.BlockCrouch
     );
   }
 
@@ -176,6 +187,7 @@ export function canTransition(from: FighterState, to: FighterState): boolean {
       to === FighterState.Crouch ||
       to === FighterState.BlockStand ||
       to === FighterState.BlockCrouch ||
+      to === FighterState.Blockstun || // hit while blocking → enter blockstun
       to === FighterState.JumpUp ||
       to === FighterState.JumpForward ||
       to === FighterState.JumpBackward ||

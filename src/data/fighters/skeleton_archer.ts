@@ -48,7 +48,7 @@ export const skeleton_archer: FighterData = makeVariant(fire_wizard, {
       animState: 'Shot_1',
       projectile: {
         id: 'bone_arrow',
-        textureKey: 'Arrow',
+        textureKey: 'skeleton_archer_Arrow',
         frameW: 48,
         frameH: 48,
         frameCount: 1,
